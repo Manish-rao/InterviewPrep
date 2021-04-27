@@ -1,0 +1,12 @@
+[
+  {
+    "type": "com.CustomIOCService.IMeeting",
+    "mapTo": "com.CustomIOCService.Meeting",
+    "singleton": true
+  },
+  {
+    "type": "com.CustomIOCService.IMeetingService",
+    "mapTo": "com.CustomIOCService.MeetingService",
+    "singleton": true
+  }
+]
